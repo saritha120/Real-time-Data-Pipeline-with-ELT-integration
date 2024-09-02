@@ -5,7 +5,7 @@ Create a real-time recommendation system to suggest products to users based on t
 
 ### Note on Tools Used
 
-In this project, I've selected specific tools and technologies, such as Apache Kafka, to gain hands-on experience and deepen my understanding of these particular tools. However, it's important to recognize that these tools can be substituted with other available alternatives that perform similar functions. The choice of tools in this project reflects my current learning focus and the specific requirements of the project. Depending on the environment, use case, or personal preference, you may opt for different tools to achieve the same objectives.
+In this project, I've selected specific tools and technologies, such as Apache Kafka, to gain hands-on experience and deepen my understanding of these particular tools. However, it's important to recognize that these tools can be substituted with other available alternatives that perform similar functions. The choice of tools in this project reflects my current learning focus. Depending on the environment, use case, or personal preference, you may opt for different tools to achieve the same objectives.
 
 
 ## Setup Instructions
